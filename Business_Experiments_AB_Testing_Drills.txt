@@ -1,0 +1,67 @@
+1. Does a new supplement help people sleep better?
+
+Goal: Identify whether a new supplment (sleeping pill) help people sleep better or not. 
+
+Two versions - Control & Test versions
+  - Regular pill for control version
+  - Actual supplemental for the test version
+
+Sample - Randomly selected people who'd would be likely to take supplemental pills (adults)
+
+Hypothesis - The subject in the test group will sleep better
+
+Outcomes - The subject in the test group will have a statistically significant reduction in the time it takes to fall asleep
+
+Other variables - Gender, hours worked per week, age, marital status, number of children, type of work etc.,
+
+2. Will new uniforms help a gym's business?
+
+Two versions - Control & Test
+  - Control - Existing uniform for control version
+    Test - New uniform for the test version
+
+
+Sample - Select a few trainers to wear the new and old uniform randomly
+
+Hypothesis - The new gym uniform will bring customer's attention and give gym a more professional outlook which in turn will improve business. 
+
+Outcomes - The subject in the test group will have a significant word of mouth marketing due to their new outlook and so on
+
+Other variables - Gender, age, time of the day, logo on the shirt etc., 
+
+
+
+3. Will a new homepage improve my online exotic pet rental business?
+
+Two versions - Control & Test
+
+ Control - Keep the existing home page for control version
+ Test - Develop a new home for test version
+
+
+Sample - Randomly select a few customers say like every 3rd customer and redirect them to either new page and others to old home page
+
+Hypotheis - The new homepage will have more features for the online customers to navigate the products easily and this in turn will improve the business and customer experience 
+
+Outcomes - The subject in the test group will have a statistically significant increase in the online business
+
+Other variables - number of products, number of hits and purchases made, data traffic, online vs physical store visit
+
+
+4. If I put 'please read' in the email subject will more people read my emails?
+
+Test versions - Control & Test
+
+   Control - Control version will not have 'please read' in the email subject
+   Test  - Test version will have 'please read' in the email subject
+
+Sample - Select a few random people within your contacts and send email with or without 'please read' in the subject 
+
+Hypothesis - Placing 'please read' in the email subject will make more of my emails to be read on time
+
+Outcomes - Use email read feature in the email server to detect the emails are read
+
+Other variables - Gender, age , millienium kids etc., will make any difference as far as track who's paying attention to the 'please read' emails and so on
+
+
+  
