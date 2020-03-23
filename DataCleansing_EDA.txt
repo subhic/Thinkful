@@ -1,0 +1,9 @@
+1. By treating Rank as categorical, we will lose the distance between the ranks. It could be advantageous and remain disadvantage depends on the situation and data set I suppose. 
+
+II. Data types of the variables:
+
+1. Age - Continuous ratio variable
+2. Salary - Continuous ratio
+3. Revenue - Continuous ratio
+4. Customer Type - Categorical
+5.  Stock Price - Continuous ratio
